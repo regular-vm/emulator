@@ -1,0 +1,3 @@
+[submodule "libencoding"]
+	path = libencoding
+	url = https://github.com/regular-vm/libencoding.git
